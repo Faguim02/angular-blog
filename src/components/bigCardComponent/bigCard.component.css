@@ -1,0 +1,19 @@
+section{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+section img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+section h2{
+    color: white;
+}
+
+section span, p{
+    color: #ffffff6b;
+}

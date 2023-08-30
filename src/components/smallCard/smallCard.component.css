@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    width: 600px;
+    gap: .5rem;
+}
+section img{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+section div{
+    display: flex;
+    flex-direction: column;
+    color: #ffffff6b;
+}
+section div h2{
+    color: white;
+    font-size: 15pt;
+}

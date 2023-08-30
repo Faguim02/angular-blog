@@ -1,0 +1,42 @@
+#page-scroll-1{
+    padding: 1rem 4rem;
+    height: 100vh;
+}
+#logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    border-top: 1px solid #ffffff7e;
+    border-bottom: 1px solid #ffffff7e;;
+}
+#logo h1{
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5vw;
+    padding: 0;
+    margin: 0;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+}
+#cards-principal{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+#small-cards{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#page-scroll-2{
+    background-color: white;
+    padding: 1rem 4rem;
+}
+#page-scroll-2 article{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-between;
+    margin: 2rem 0;
+}
